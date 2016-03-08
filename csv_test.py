@@ -10,10 +10,9 @@ FILENAME = 'data.csv'
 DELIMITER = '\t'
 DEFAULT_DATA = [
     ['a', 'b', """c
-this""" + DELIMITER + """ is """ + DELIMITER + """ false """ + DELIMITER + """data 
-mult¡  
-lined"""],
-    ['incomplete ' + DELIMITER, 'well', 'too much data ? :)']
+     42,23,7
+     60,,"""],
+    ['12,00',3,2],
 ]
 
 
