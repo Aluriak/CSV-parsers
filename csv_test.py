@@ -7,7 +7,7 @@ import os
 import csv
 
 FILENAME = 'data.csv'
-DELIMITER = '\t'
+DELIMITER = ','
 DEFAULT_DATA = [
     ['a', 'b', """c
      42,23,7
